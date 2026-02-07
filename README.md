@@ -27,8 +27,8 @@ I am building strong problem-solving skills using **C++** before diving into cor
 # DSA Foundation Journey
 
 Day-01: Completed ✅
-Day-02: In Progress ⏳
-
+Day-02: Completed ✅
+Day-03: In Progress ⏳
 ---
 
 ## 📂 Repository Structure
